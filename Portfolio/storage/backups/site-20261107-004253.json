@@ -1,0 +1,32 @@
+{
+    "name": "Philip Antonio Dineros",
+    "eyebrow": "INFORMATION TECHNOLOGY STUDENT / PHILIPPINES",
+    "headline_top": "I MAKE",
+    "headline_accent": "THINGS LIGHTER",
+    "intro": "A student that turns curiosity and ideas into life",
+    "hero_note": "CODE / DESIGN / ANALYZE",
+    "hero_image": "uploads/8c5bf6ed1f5a4a8d896c9892eff136c9.png",
+    "hero_alt": "Abstract acid graphic artwork in neon lime and purple",
+    "menu_image": "",
+    "about": "I’m Philip, a student building my skills through projects, experimentation, and learning by making. This portfolio is a living record of what I create and what I discover along the way.",
+    "skills": [
+        "PHP",
+        "HTML & CSS",
+        "JavaScript",
+        "UI / UX",
+        "Problem solving"
+    ],
+    "music_intro": "A little soundtrack to the work in progress.",
+    "music_genres": [
+        "Electronic",
+        "Alternative",
+        "Ambient"
+    ],
+    "music_url": "",
+    "email": "philipantoniodineros@gmail.com",
+    "instagram": "",
+    "github": "",
+    "linkedin": "",
+    "resume_url": "",
+    "accent": "#d8ff00"
+}

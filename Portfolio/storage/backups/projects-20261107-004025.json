@@ -1,0 +1,34 @@
+[
+    {
+        "id": "project-one",
+        "title": "Project One",
+        "category": "WEB / DEVELOPMENT",
+        "summary": "Add a short sentence about the problem this project solves.",
+        "description": "Describe the project, your role, the process, and what you learned. Replace this starter copy in the admin panel.",
+        "tools": [
+            "PHP",
+            "HTML",
+            "CSS"
+        ],
+        "image": "",
+        "alt": "Abstract lime and purple project artwork",
+        "demo_url": "",
+        "source_url": "",
+        "published": true,
+        "order": 1
+    },
+    {
+        "id": "alfbakes-website",
+        "title": "Alfbakes Website",
+        "category": "WEB / CREATIVE",
+        "summary": "",
+        "description": "",
+        "tools": [],
+        "image": "",
+        "alt": "",
+        "demo_url": "",
+        "source_url": "",
+        "published": true,
+        "order": 2
+    }
+]

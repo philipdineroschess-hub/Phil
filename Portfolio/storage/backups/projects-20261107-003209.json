@@ -1,0 +1,44 @@
+[
+  {
+    "id": "project-one",
+    "title": "Project One",
+    "category": "WEB / DEVELOPMENT",
+    "summary": "Add a short sentence about the problem this project solves.",
+    "description": "Describe the project, your role, the process, and what you learned. Replace this starter copy in the admin panel.",
+    "tools": ["PHP", "HTML", "CSS"],
+    "image": "",
+    "alt": "Abstract lime and purple project artwork",
+    "demo_url": "",
+    "source_url": "",
+    "published": true,
+    "order": 1
+  },
+  {
+    "id": "project-two",
+    "title": "Project Two",
+    "category": "CREATIVE / INTERACTIVE",
+    "summary": "Show a class project, prototype, experiment, or personal build.",
+    "description": "Explain what you contributed and one challenge you worked through. Replace this starter copy in the admin panel.",
+    "tools": ["HTML", "CSS", "JavaScript"],
+    "image": "",
+    "alt": "Abstract lime and purple project artwork",
+    "demo_url": "",
+    "source_url": "",
+    "published": true,
+    "order": 2
+  },
+  {
+    "id": "project-three",
+    "title": "Project Three",
+    "category": "SCHOOL / EXPERIMENT",
+    "summary": "Your third featured work can be a small but thoughtful project.",
+    "description": "Add the project's purpose, your role, and its result. Replace this starter copy in the admin panel.",
+    "tools": ["PHP", "JavaScript"],
+    "image": "",
+    "alt": "Abstract lime and purple project artwork",
+    "demo_url": "",
+    "source_url": "",
+    "published": true,
+    "order": 3
+  }
+]

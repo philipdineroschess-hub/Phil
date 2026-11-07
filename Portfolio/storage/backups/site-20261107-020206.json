@@ -1,0 +1,31 @@
+{
+    "name": "Philip Antonio Dineros",
+    "eyebrow": "INFORMATION TECHNOLOGY STUDENT / PHILIPPINES",
+    "headline_top": "I MAKE",
+    "headline_accent": "THINGS LIGHTER",
+    "intro": "A student that turns curiosity and ideas into life",
+    "hero_note": "CODE / DESIGN / ANALYZE",
+    "hero_image": "uploads/142625dc28bcb1cb8caa8551ebab9fff.png",
+    "hero_alt": "Abstract acid graphic artwork in neon lime and purple",
+    "menu_image": "",
+    "about": "I'm Philip Antonio Dineros from valenzuela city. My hobbies are playing chess because it's fun to analyze and think deeper. I would love to become DevOps in the near future",
+    "skills": [
+        "PHP",
+        "HTML & CSS",
+        "JavaScript",
+        "Python"
+    ],
+    "music_intro": "A little soundtrack to the work in progress.",
+    "music_genres": [
+        "Metal",
+        "Modern Hip-Hop",
+        "Trap Music"
+    ],
+    "music_url": "",
+    "email": "philipantoniodineros@gmail.com",
+    "instagram": "",
+    "github": "",
+    "linkedin": "",
+    "resume_url": "",
+    "accent": "#d8ff00"
+}
